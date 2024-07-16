@@ -15,7 +15,7 @@ Este repositorio contiene el ejercicio práctico para el puesto de Desarrollador
 1. Accede a la aplicación web de gestión de tareas seleccionada: [Any.do](https://www.any.do/)
 2. Revise los casos de prueba en `docs/casos-prueba.pdf`
 3. Revise los tickets de error en `docs/tickets-error.pdf`
-4. Revise el ticket de la nueva funcionalidad a implementar - [Ver En Asana] (https://app.asana.com/0/1207815326924227/1207815456159024)
+4. Revise el ticket de la nueva funcionalidad a implementar - [Ver En Asana](https://app.asana.com/0/1207815326924227/1207815456159024)
 
 ### Casos de Prueba
 
