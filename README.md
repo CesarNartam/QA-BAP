@@ -24,8 +24,8 @@ Este repositorio contiene el ejercicio práctico para el puesto de Desarrollador
 3. Creación de tareas
 4. Asignación de responsabilidades
 5. Invitaciones a equipos
-6. Fechas límite
-7. Visualización de tareas
+6. Visualización de tareas
+7. Fechas límite
 8. Prioridad de tareas
-9. Diseño responsivo
-10. Notificaciones
+9. Notificaciones
+10. Diseño responsivo
